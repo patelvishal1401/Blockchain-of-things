@@ -7,3 +7,4 @@ Reference : https://audithor.io/which-tools-to-use-for-smart-contract-auditing/
 - Manticore : https://github.com/trailofbits/manticore
 - Ethersplay : https://github.com/trailofbits/ethersplay
 - Echidna : https://github.com/trailofbits/echidna
+- Consensys Best Practices : https://consensys.github.io/smart-contract-best-practices/security_tools/
